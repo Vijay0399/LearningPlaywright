@@ -16,14 +16,16 @@ let tiny = 1.5e-4;
 // Single quotes
 let single = 'Hello World';
 let withDouble = 'She said "hi"';
-
+console.log(single);
+console.log(withDouble);
 // let name = 'It's a test';
 
 
 // Double quotes
 let double = "Hello World";
 let withSingle = "It's a test";
-
+console.log(double);
+console.log(withSingle);
 
 // Template literal 
 let first_name = "Pramod";
